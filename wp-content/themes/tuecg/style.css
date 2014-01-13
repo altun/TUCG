@@ -7659,3 +7659,7 @@ transform: scale(1);
     transition: none 0s ease 0s !important;
     z-index: 9 !important;
 }
+
+.deneme{
+	background-color: yellow;
+}
