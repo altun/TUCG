@@ -1,6 +1,7 @@
 <?php
 /*
 Template Name: Portfolio 2 columns
+selam
 */
 ?>
 
