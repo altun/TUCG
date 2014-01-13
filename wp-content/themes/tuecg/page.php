@@ -28,7 +28,7 @@
 					<h2 class="entry-title"><?php _e('Error 404 - Not Found', 'startis') ?></h2>
 				
 					<div class="content">
-						<p><?php _e('Sorry, but you are looking for something that is nt here!', 'startis') ?></p>
+						<p><?php _e('Sorry, but you are looking for something that is noot here!', 'startis') ?></p>
                         <?php get_search_form(); ?>
 					</div>
 				
