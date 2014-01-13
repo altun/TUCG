@@ -14,6 +14,8 @@ require_once(get_template_directory() . '/admin/options.php');
 
 ////////////////////       Widgets & Functions      ////////////////////
 
+/// serhat ///
+
 include(get_template_directory() . '/adminfunctions.php');
 include("functions/theme-settings.php");
 include("functions/startis-sidebars.php");
