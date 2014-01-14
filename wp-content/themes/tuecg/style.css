@@ -167,10 +167,9 @@ h1, h2, h3, h4, h5, h6 {
 .stitle {
 	background: none repeat scroll 0 0 #FFFFFF;
 	border-bottom: 2px solid #E4E4E4;
+	/*margin: 0 0 20px;*/
 	overflow: hidden;
 	padding: 5px 10px;
-	float: left;
-	width: 705px;
 }
 
 .startis_related .stitle {
@@ -7671,12 +7670,12 @@ transform: scale(1);
 }
 
 .ana-sayfa-sinirla{
-	width: 727px;
+	width: 100%;
 	float: left;
 }
 
 .ana-sayfa-sinirla-duyurular{
-	width: 727px;
+	width: 100%;
 	float: left;
 	margin-top: 15px;
 }
@@ -7702,8 +7701,15 @@ transform: scale(1);
 	margin-left: 1px;
 	overflow: hidden;
 	padding: 7px 9px;
-	margin-top: 15px;
+	/*margin-top: 15px;*/	
 	height: 17px;
 }
 
-/*bitti*/
+.tumunu-goster-spani{
+	font-size: 9px;
+	font-weight: normal;
+	background-color: #CDDBE9;
+	color: white;
+	padding: 2px 6px 2px 6px;
+	margin-left: 62%;
+}
